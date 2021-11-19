@@ -8,3 +8,13 @@ contentSelector = "div.ng-scope"
 imageSelector = "a.ng-scope div:nth-child(1)"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[naverpost]
+title = "네이버 포스트 ─ 씬디 티켓라운지"
+url = "https://m.post.naver.com/my.naver?memberNo=25432690"
+entrySelector = "ul.lst_feed li._cds.check_visible"
+titleSelector = "strong.tit_feed.ell"
+linkSelector = "div.text_area a.link_end"
+imageSelector = "div.image_area a img"
+contentSelector = "p.text_feed.ell"
+waitUntil = "networkidle"
