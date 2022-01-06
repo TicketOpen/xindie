@@ -4,41 +4,14 @@
         <title>XINDIE ─ TICKET</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 10:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 11:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[KT&G 상상마당 라이브홀 - <Play Nuplay>]]></title>
-            <link>https://xindieticket.kr/tickets/6292677603622912</link>
-            <guid>https://xindieticket.kr/tickets/6292677603622912</guid>
-            <pubDate>Thu, 30 Dec 2021 11:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>
-		<div class="ng-binding">KT&amp;G 상상마당 라이브홀 - &lt;Play Nuplay&gt;</div>
-	</h1>
-
-	<div class="desc-date"><div class="ng-binding">2022-01-05 (수) 11:00</div></div>
-
-	<div class="desc-place">
-		<!--				{{ performance.data.lineup }}<br>-->
-		<a ng-href="/map/5689127638925312" class="ng-binding" href="/map/5689127638925312">@KT&amp;G 상상마당 라이브홀</a><br>
-		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">예매33,000원<br></span><!-- end ngIf: performance.price_desc -->
-		<!-- ngIf: !performance.price_desc && performance.price -->
-	</div>
-
-	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><a xi-button="" ng-repeat="paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET']" button-block="" ng-if="performance.data.reservation_url[paymethod]" ng-attr-button-paymethod="{{ paymethod }}" ng-href="https://ticket.melon.com/performance/index.htm?prodId=206466" target="_blank" class="ng-scope" button-paymethod="MELON" href="https://ticket.melon.com/performance/index.htm?prodId=206466">
-		<div class="ng-binding">MELON</div>
-	</a><!-- end ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
-
-	<!-- ngRepeat: paymethod in performance.paymethods -->
-
-	<!-- ngIf: performance.event -->]]></content:encoded>
-            <enclosure url="http://lh3.googleusercontent.com/P6QZLjXsSIl88ZcLrQpOHuBYPdrbkdmKmmA6owoGi-Z_Sc2eq04jD5ApOpge6IoiEe34zUCezw51ORbkPaqOuZm9fEKbJz150Gc=s480" length="0" type="image//P6QZLjXsSIl88ZcLrQpOHuBYPdrbkdmKmmA6owoGi-Z_Sc2eq04jD5ApOpge6IoiEe34zUCezw51ORbkPaqOuZm9fEKbJz150Gc=s480"/>
-        </item>
         <item>
             <title><![CDATA[네스트 나다 - "때론 나홀로 나다"]]></title>
             <link>https://xindieticket.kr/tickets/4867312645570560</link>
             <guid>https://xindieticket.kr/tickets/4867312645570560</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">네스트 나다 - "때론 나홀로 나다" </div>
 	</h1>
@@ -67,7 +40,7 @@
             <title><![CDATA[FF - Thursday Vibes]]></title>
             <link>https://xindieticket.kr/tickets/6200561930076160</link>
             <guid>https://xindieticket.kr/tickets/6200561930076160</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">FF - Thursday Vibes</div>
 	</h1>
@@ -94,7 +67,7 @@
             <title><![CDATA[제비다방 - 아코디엠]]></title>
             <link>https://xindieticket.kr/tickets/6239310151942144</link>
             <guid>https://xindieticket.kr/tickets/6239310151942144</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">제비다방 - 아코디엠</div>
 	</h1>
@@ -123,7 +96,7 @@
             <title><![CDATA[제비다방 - 백원]]></title>
             <link>https://xindieticket.kr/tickets/6277580390924288</link>
             <guid>https://xindieticket.kr/tickets/6277580390924288</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">제비다방 - 백원</div>
 	</h1>
@@ -152,7 +125,7 @@
             <title><![CDATA[A.O.R CRAZY FRIDAY]]></title>
             <link>https://xindieticket.kr/tickets/4787854072872960</link>
             <guid>https://xindieticket.kr/tickets/4787854072872960</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">A.O.R CRAZY FRIDAY</div>
 	</h1>
@@ -179,7 +152,7 @@
             <title><![CDATA[FF - Dammit]]></title>
             <link>https://xindieticket.kr/tickets/4793187046522880</link>
             <guid>https://xindieticket.kr/tickets/4793187046522880</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">FF - Dammit</div>
 	</h1>
@@ -206,7 +179,7 @@
             <title><![CDATA[In Mate - <IN_MATE_STAGE>]]></title>
             <link>https://xindieticket.kr/tickets/4812294382944256</link>
             <guid>https://xindieticket.kr/tickets/4812294382944256</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">In Mate - &lt;IN_MATE_STAGE&gt;</div>
 	</h1>
@@ -235,7 +208,7 @@
             <title><![CDATA[네스트 나다 - "틸더 베이스 퇴사자 특집"]]></title>
             <link>https://xindieticket.kr/tickets/4794298738409472</link>
             <guid>https://xindieticket.kr/tickets/4794298738409472</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">네스트 나다 - "틸더 베이스 퇴사자 특집"</div>
 	</h1>
@@ -264,7 +237,7 @@
             <title><![CDATA[제비다방 - 김마스타]]></title>
             <link>https://xindieticket.kr/tickets/6234095390556160</link>
             <guid>https://xindieticket.kr/tickets/6234095390556160</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">제비다방 - 김마스타</div>
 	</h1>
@@ -293,7 +266,7 @@
             <title><![CDATA[Rolling Hall - <밴디지 단독 콘서트 : 롤링 27주년 기념 공연>]]></title>
             <link>https://xindieticket.kr/tickets/6253337179586560</link>
             <guid>https://xindieticket.kr/tickets/6253337179586560</guid>
-            <pubDate>Fri, 31 Dec 2021 11:03:23 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">Rolling Hall - &lt;밴디지 단독 콘서트 : 롤링 27주년 기념 공연&gt;</div>
 	</h1>
@@ -320,7 +293,7 @@
             <title><![CDATA[FF - Bizzare Love Triangle]]></title>
             <link>https://xindieticket.kr/tickets/6332640764362752</link>
             <guid>https://xindieticket.kr/tickets/6332640764362752</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">FF - Bizzare Love Triangle</div>
 	</h1>
@@ -347,7 +320,7 @@
             <title><![CDATA[Bender -「NEW YEAR! NEW CHANCE!」]]></title>
             <link>https://xindieticket.kr/tickets/6238479008661504</link>
             <guid>https://xindieticket.kr/tickets/6238479008661504</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">Bender -「NEW YEAR! NEW CHANCE!」</div>
 	</h1>
@@ -374,7 +347,7 @@
             <title><![CDATA[Prism - <2021 SIMF 제주대구부산서울 인디교류전 서울 공연>]]></title>
             <link>https://xindieticket.kr/tickets/6221927244890112</link>
             <guid>https://xindieticket.kr/tickets/6221927244890112</guid>
-            <pubDate>Fri, 31 Dec 2021 11:03:23 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">Prism - &lt;2021 SIMF 제주대구부산서울 인디교류전 서울 공연&gt;</div>
 	</h1>
@@ -401,7 +374,7 @@
             <title><![CDATA[In Mate - <IN_MATE_STAGE>]]></title>
             <link>https://xindieticket.kr/tickets/6195998762205184</link>
             <guid>https://xindieticket.kr/tickets/6195998762205184</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">In Mate - &lt;IN_MATE_STAGE&gt;</div>
 	</h1>
@@ -430,7 +403,7 @@
             <title><![CDATA[In Mate - <IN_MATE_STAGE>]]></title>
             <link>https://xindieticket.kr/tickets/6201673621962752</link>
             <guid>https://xindieticket.kr/tickets/6201673621962752</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">In Mate - &lt;IN_MATE_STAGE&gt;</div>
 	</h1>
@@ -459,7 +432,7 @@
             <title><![CDATA[Rolling Hall - <용용 콘서트 소호도 '小虎跳' : 롤링 27주년 기념 공연>]]></title>
             <link>https://xindieticket.kr/tickets/6331804889907200</link>
             <guid>https://xindieticket.kr/tickets/6331804889907200</guid>
-            <pubDate>Fri, 31 Dec 2021 12:09:58 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">Rolling Hall - &lt;용용 콘서트 소호도 '小虎跳' : 롤링 27주년 기념 공연&gt;</div>
 	</h1>
@@ -486,7 +459,7 @@
             <title><![CDATA[FF - Wherever You Will Go]]></title>
             <link>https://xindieticket.kr/tickets/4875380808744960</link>
             <guid>https://xindieticket.kr/tickets/4875380808744960</guid>
-            <pubDate>Tue, 04 Jan 2022 06:05:50 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">FF - Wherever You Will Go</div>
 	</h1>
@@ -513,7 +486,7 @@
             <title><![CDATA[A.O.R - 우물 '너 없는 바다는 전부 사라졌으면 좋겠다'  [사막화] 발매 기념 공연]]></title>
             <link>https://xindieticket.kr/tickets/6317327964438528</link>
             <guid>https://xindieticket.kr/tickets/6317327964438528</guid>
-            <pubDate>Sat, 01 Jan 2022 09:03:49 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">A.O.R - 우물 '너 없는 바다는 전부 사라졌으면 좋겠다'  [사막화] 발매 기념 공연</div>
 	</h1>
@@ -540,7 +513,7 @@
             <title><![CDATA[In Mate - <IN_MATE_STAGE>]]></title>
             <link>https://xindieticket.kr/tickets/6195228956426240</link>
             <guid>https://xindieticket.kr/tickets/6195228956426240</guid>
-            <pubDate>Tue, 04 Jan 2022 11:03:34 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
 		<div class="ng-binding">In Mate - &lt;IN_MATE_STAGE&gt;</div>
 	</h1>
@@ -564,6 +537,35 @@
 
 	<!-- ngIf: performance.event -->]]></content:encoded>
             <enclosure url="http://lh3.googleusercontent.com/526cFGnpnPPyWwGqtg8HIQdfrkIZTKcHWtOkF89XDQiY4DhkjuFVhktbEGuKHv7WhAK6cdgxlna7WXbBqJzH990lqwnJAdfRvngU=s480" length="0" type="image//526cFGnpnPPyWwGqtg8HIQdfrkIZTKcHWtOkF89XDQiY4DhkjuFVhktbEGuKHv7WhAK6cdgxlna7WXbBqJzH990lqwnJAdfRvngU=s480"/>
+        </item>
+        <item>
+            <title><![CDATA[제비다방 - 차세대]]></title>
+            <link>https://xindieticket.kr/tickets/6247802711572480</link>
+            <guid>https://xindieticket.kr/tickets/6247802711572480</guid>
+            <pubDate>Thu, 06 Jan 2022 11:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>
+		<div class="ng-binding">제비다방 - 차세대</div>
+	</h1>
+
+	<div class="desc-date"><div class="ng-binding">2022-01-09 (일) 11:00</div></div>
+
+	<div class="desc-place">
+		<!--				{{ performance.data.lineup }}<br>-->
+		<a ng-href="/map/6282520320540672" class="ng-binding" href="/map/6282520320540672">@제비다방</a><br>
+		<!-- ngIf: performance.price_desc --><span ng-if="performance.price_desc" class="ng-binding ng-scope">무료입장 자율페이<br></span><!-- end ngIf: performance.price_desc -->
+		<!-- ngIf: !performance.price_desc && performance.price -->
+	</div>
+
+	<!-- ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] --><!-- ngIf: performance.data.reservation_url[paymethod] --><!-- end ngRepeat: paymethod in ['FORM', '네이버', '인터파크', 'i_GET', 'TICKETLINK', 'YES_24', 'MELON', 'HANA_TICKET'] -->
+
+	<!-- ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="자율모금함">
+		<div class="ng-binding">자율모금함</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods --><!-- ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><a xi-button="" ng-repeat="paymethod in performance.paymethods" button-block="" ng-if="paymethod !== '인터파크' &amp;&amp; paymethod !== '네이버'" ng-attr-button-paymethod="{{ paymethod }}" ng-href="" target="_blank" class="ng-scope" button-paymethod="무료공연">
+		<div class="ng-binding">무료공연</div>
+	</a><!-- end ngIf: paymethod !== '인터파크' && paymethod !== '네이버' --><!-- end ngRepeat: paymethod in performance.paymethods -->
+
+	<!-- ngIf: performance.event -->]]></content:encoded>
+            <enclosure url="http://lh3.googleusercontent.com/R4Lq8Et_2RCa7tZmUKD25aZoIPEfnA9u5m4ikVKQrMGVXTSxtALS5wGosUjWZZvE9rYN1xm4RFwC8jdC5moCLlPviqxn3gfX7O9b=s480" length="0" type="image//R4Lq8Et_2RCa7tZmUKD25aZoIPEfnA9u5m4ikVKQrMGVXTSxtALS5wGosUjWZZvE9rYN1xm4RFwC8jdC5moCLlPviqxn3gfX7O9b=s480"/>
         </item>
     </channel>
 </rss>
