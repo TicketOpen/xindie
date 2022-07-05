@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 07:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 08:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,12 +280,12 @@
             <enclosure url="http://lh3.googleusercontent.com/Xcs-4yOwjQ04gYY4MX-H3KaVbFXrnJZdDI8LUuTy-wiGfLKR_VKzds7gsT69XDmIPbwQnwSeLhM4J7twewt_SljzOMZjRFgvwT8r2g=s480" length="0" type="image//Xcs-4yOwjQ04gYY4MX-H3KaVbFXrnJZdDI8LUuTy-wiGfLKR_VKzds7gsT69XDmIPbwQnwSeLhM4J7twewt_SljzOMZjRFgvwT8r2g=s480"/>
         </item>
         <item>
-            <title><![CDATA[ (XINDIE ─ TICKET)]]></title>
+            <title><![CDATA[Cosmic Dance (XINDIE ─ TICKET)]]></title>
             <link>https://xindieticket.kr/tickets/6228063310315520</link>
             <guid>https://xindieticket.kr/tickets/6228063310315520</guid>
             <pubDate>Mon, 04 Jul 2022 09:05:23 GMT</pubDate>
             <content:encoded><![CDATA[<h1>
-		<div class="ng-binding"></div>
+		<div class="ng-binding">Cosmic Dance</div>
 	</h1>
 
 	<div class="desc-date"><div class="ng-binding">2022-07-10 (일) 08:00</div></div>
